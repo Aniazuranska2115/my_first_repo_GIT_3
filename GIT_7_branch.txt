@@ -1,0 +1,16 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git log --oneline --graph
+*   ffacc88 (HEAD -> master) conflict
+|\
+| * 9e8ee75 (test) asdfgreadme
+| * 6c37dd8 branch2
+| * 9acf054 branch
+| * 135078a git7
+* | 88f3196 poprawione
+* | 916723c readme7
+|/
+* 77f76d0 show
+* 5f3dc0b diff
+* 7193660 readme
+* e0213a8 git4
+* bf030d7 status

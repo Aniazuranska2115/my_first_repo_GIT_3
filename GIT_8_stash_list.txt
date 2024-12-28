@@ -1,0 +1,4 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git stash list
+stash@{0}: WIP on master: e0af1a8 branch_oneline
+stash@{1}: WIP on master: 88f3196 poprawione

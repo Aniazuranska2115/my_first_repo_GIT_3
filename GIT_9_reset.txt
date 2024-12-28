@@ -1,0 +1,53 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git log
+commit e6fdc4b9d2905d4c6c8bbfa47208a0cafe9843ef (HEAD -> master)
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 22:19:13 2024 +0100
+
+    kgit8cherrypick
+
+commit e26b9e9d849c00e51b1663d8a7152003184d68ce
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 22:16:55 2024 +0100
+
+    git8_3
+
+commit ab063fd273563d4b8824a7df3701782d6df7b182
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 22:10:22 2024 +0100
+
+    git8_2
+
+commit ad53f8186cbd39d6169fb023c3057e7ff2437816
+Merge: d7fc068 b389ade
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 22:07:05 2024 +0100
+
+    Merge branch 'test'
+
+commit b389ade7e64c2a20edfd349b25e56dd8a8bd436a
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 22:06:48 2024 +0100
+
+    git8diff
+
+commit 51ab61482e2a28f27cb622493f0d88996b7059c7
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 22:02:05 2024 +0100
+
+    gitlog8
+
+commit d7fc068170899c683f0a64aa99cfe821f3f80312
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 22:00:56 2024 +0100
+
+    git8
+
+commit e0af1a8f012efb9b4c40a369a7c2dbeabb6eb150
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 21:57:42 2024 +0100
+
+    branch_oneline
+
+commit ffacc88af9f236fd779a46c28df4d04705f97eb1
+

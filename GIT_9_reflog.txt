@@ -1,0 +1,47 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git reflog
+f81bdf1 (HEAD -> master) HEAD@{0}: commit: git9reset
+e6fdc4b HEAD@{1}: reset: moving to HEAD~1
+06c8e1e HEAD@{2}: commit: git9_1
+e6fdc4b HEAD@{3}: commit: kgit8cherrypick
+e26b9e9 HEAD@{4}: cherry-pick: git8_3
+ab063fd HEAD@{5}: checkout: moving from test to master
+7ce81e3 (test) HEAD@{6}: commit: git8_3
+b389ade HEAD@{7}: checkout: moving from master to test
+ab063fd HEAD@{8}: rebase (finish): returning to refs/heads/master
+ab063fd HEAD@{9}: rebase (squash): git8_2
+75c6df0 HEAD@{10}: rebase (start): checkout HEAD~2
+f96daaa HEAD@{11}: commit: git8_3
+75c6df0 HEAD@{12}: commit: git8_2
+ad53f81 HEAD@{13}: merge test: Merge made by the 'ort' strategy.
+d7fc068 HEAD@{14}: checkout: moving from test to master
+b389ade HEAD@{15}: commit: git8diff
+51ab614 HEAD@{16}: commit: gitlog8
+9e8ee75 HEAD@{17}: checkout: moving from master to test
+d7fc068 HEAD@{18}: commit: git8
+e0af1a8 HEAD@{19}: reset: moving to HEAD
+e0af1a8 HEAD@{20}: commit: branch_oneline
+ffacc88 HEAD@{21}: commit (merge): conflict
+88f3196 HEAD@{22}: checkout: moving from test to master
+9e8ee75 HEAD@{23}: commit: asdfgreadme
+6c37dd8 HEAD@{24}: checkout: moving from master to test
+88f3196 HEAD@{25}: checkout: moving from test to master
+6c37dd8 HEAD@{26}: checkout: moving from master to test
+88f3196 HEAD@{27}: checkout: moving from test to master
+6c37dd8 HEAD@{28}: checkout: moving from test to test
+6c37dd8 HEAD@{29}: commit: branch2
+9acf054 HEAD@{30}: checkout: moving from master to test
+88f3196 HEAD@{31}: checkout: moving from test to master
+9acf054 HEAD@{32}: commit: branch
+135078a HEAD@{33}: checkout: moving from master to test
+88f3196 HEAD@{34}: reset: moving to HEAD
+88f3196 HEAD@{35}: commit: poprawione
+916723c HEAD@{36}: commit: readme7
+77f76d0 HEAD@{37}: checkout: moving from test to master
+135078a HEAD@{38}: commit: git7
+77f76d0 HEAD@{39}: checkout: moving from master to test
+77f76d0 HEAD@{40}: commit: show
+5f3dc0b HEAD@{41}: commit: diff
+7193660 HEAD@{42}: commit: readme
+e0213a8 HEAD@{43}: commit: git4
+bf030d7 HEAD@{44}: commit (initial): status

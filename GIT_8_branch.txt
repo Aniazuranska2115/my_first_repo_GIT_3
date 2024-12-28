@@ -1,0 +1,4 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git branch
+* master
+  test

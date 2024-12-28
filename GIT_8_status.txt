@@ -1,0 +1,11 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   GIT_8_branch.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        GIT_8_status.txt
+

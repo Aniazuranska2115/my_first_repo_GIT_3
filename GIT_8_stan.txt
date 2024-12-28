@@ -1,0 +1,4 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean

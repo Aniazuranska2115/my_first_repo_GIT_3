@@ -1,0 +1,31 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (test)
+$ git log
+commit 77f76d0fb01b8b10f1e4a7bb62c7a68397038555 (HEAD -> test, master)
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 21:35:43 2024 +0100
+
+    show
+
+commit 5f3dc0bb127a0da86ea0d18dc75dcbd8fca5a111
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 21:32:32 2024 +0100
+
+    diff
+
+commit 71936604423b45eeb0de9a0ccbb3838002b2e9de
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 21:27:49 2024 +0100
+
+    readme
+
+commit e0213a8af723151405117df84743ea8cebc53481
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 21:23:14 2024 +0100
+
+    git4
+
+commit bf030d78824ca7ef6e273c5544740f8296ac644a
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 21:16:06 2024 +0100
+
+    status

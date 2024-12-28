@@ -1,0 +1,1 @@
+na przykład tworzenie aplikacji mobilnej przez kilka osób na raz, programiści mogą pracować na własnych branchach nie tworząc konfliktów w kodzie, a następnie te gałęzie można zmerchować

@@ -1,0 +1,11 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    GIT_4_status1.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GIT_4_status2.txt

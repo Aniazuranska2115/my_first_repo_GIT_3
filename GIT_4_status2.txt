@@ -1,2 +1,13 @@
-Hello world
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GIT_1_idea.txt
+        new file:   GIT_2_version.txt
+        new file:   GIT_4_status1.txt
+
 Hello world

@@ -1,0 +1,11 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git show 7193660
+commit 71936604423b45eeb0de9a0ccbb3838002b2e9de
+Author: annazuranska <pd4710@pjwstk.edu.pl>
+Date:   Sat Dec 28 21:27:49 2024 +0100
+
+    readme
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..e69de29

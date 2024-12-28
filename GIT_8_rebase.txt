@@ -1,0 +1,20 @@
+annaz@MSI-KATANA17 MINGW64 ~/my_first_repo_GIT_3 (master)
+$ git log --oneline
+ab063fd (HEAD -> master) git8_2
+ad53f81 Merge branch 'test'
+b389ade (test) git8diff
+51ab614 gitlog8
+d7fc068 git8
+e0af1a8 branch_oneline
+ffacc88 conflict
+9e8ee75 asdfgreadme
+6c37dd8 branch2
+9acf054 branch
+88f3196 poprawione
+916723c readme7
+135078a git7
+77f76d0 show
+5f3dc0b diff
+7193660 readme
+e0213a8 git4
+bf030d7 status
